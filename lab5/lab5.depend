@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635128415 source:d:\ntu\year 2\c++\lab5\animal.cpp
+	<iostream>
+	<string>
+
+1635140963 source:d:\ntu\year 2\c++\lab5\main.cpp
+	<iostream>
+	<string>
+
